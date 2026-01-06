@@ -6,7 +6,7 @@ This is a standalone playground for extracting accusations from text using LangC
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/nicoruizgio/Accusations-Extraction-from-News-Articles.git
     cd playground
     ```
 
